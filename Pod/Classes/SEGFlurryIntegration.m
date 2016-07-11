@@ -1,5 +1,5 @@
 #import "SEGFlurryIntegration.h"
-#import <Flurry-iOS-SDK/Flurry.h>
+#import <Flurry_iOS_SDK/Flurry.h>
 #import <Analytics/SEGAnalyticsUtils.h>
 
 @implementation SEGFlurryIntegration
